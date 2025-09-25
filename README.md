@@ -1,1 +1,1 @@
-To use this project, you must purchase your own copy of the game. Once purchased, you can use a game backup device to turn it into a rom, then you can replace the text "rompath" with the file path once on your computer.
+To use this project, you must purchase your own copy of the game and your own game backup device. Once purchased, you can use a game backup device to turn the game into a rom, then you can replace the text "rompath" with the file path once on your computer.
