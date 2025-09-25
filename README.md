@@ -1,1 +1,1 @@
-To use this project, you must purchase your own copy of the game. Once purchased, you can use a game backup device to turn it into a rom, then you can replace the text "rompath" with the file path once on your computer. Pirating games are strongly discouraged and you must buy the game for proper use and complying with the law.
+To use this project, you must purchase your own copy of the game. Once purchased, you can use a game backup device to turn it into a rom, then you can replace the text "rompath" with the file path once on your computer.
